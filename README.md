@@ -1,1 +1,1 @@
-![alt text](https://github.com/Ago19pc/AirdropTarocco/taroccdrop)
+![alt text](https://github.com/Ago19pc/AirdropTarocco/TaroccDrop.png)
